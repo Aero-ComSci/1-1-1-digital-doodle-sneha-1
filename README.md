@@ -12,6 +12,7 @@
 
 1. Blocks that you showcase your individual skill
 2. ![image](https://github.com/user-attachments/assets/46795c1b-ccba-497e-9089-ab923db415e5)
+<img width="344" alt="Screen Shot 2024-09-10 at 7 45 25 PM" src="https://github.com/user-attachments/assets/8ab96e77-d2ff-4123-929e-257ad9661e39">
 
 1. The images you created
 ![image](https://github.com/user-attachments/assets/3f210e75-6d9a-40f5-9645-bddf0d5a03d8)
